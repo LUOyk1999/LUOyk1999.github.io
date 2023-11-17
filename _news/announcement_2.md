@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One first-author paper is accepted by KDD.
+One first-author paper is accepted by KDD 2023.
