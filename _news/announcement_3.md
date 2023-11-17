@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted by ACM TIST.
+One first-student-author paper is accepted by ACM TIST.

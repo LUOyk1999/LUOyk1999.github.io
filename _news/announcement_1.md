@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers are accepted by NeurIPS 2023.
+Two first-author papers are accepted by NeurIPS 2023.
