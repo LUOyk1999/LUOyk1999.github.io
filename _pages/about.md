@@ -6,7 +6,7 @@ subtitle: Ph.D. Student at Beihang University (BUAA)
 
 profile:
   align: right
-  image: yuankai.jpg
+  image: yuankai.png
   image_circular: true # crops the image to make it circular
 
 news: true  # includes a list of news items
