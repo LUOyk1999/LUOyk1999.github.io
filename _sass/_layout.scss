@@ -29,7 +29,9 @@ body.sticky-bottom-footer {
 // Profile
 .profile {
   img {
-    width: 50%;
+    width: 100px;  /* Set your preferred size */
+    height: 100px; /* Adjust proportionally */
+    object-fit: cover; 
   }
 }
 
