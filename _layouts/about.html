@@ -29,9 +29,8 @@ layout: default
 
               {% include figure.html
               path=profile_image_path
-              class=profile_image_class
+              class=profile_image_class + " half-size-img"
               alt=page.profile.image
-              style="margin-bottom: 20px;"
               cache_bust=true -%}
             {% endif -%}
             {%- if page.profile.more_info %}
