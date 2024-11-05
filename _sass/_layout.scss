@@ -29,10 +29,12 @@ body.sticky-bottom-footer {
 // Profile
 .profile {
   img {
-    width: 100%;
-    // height: 100%;
-    // width: auto; /* Keep the aspect ratio */
-    // max-height: 100%; /* Ensures it doesn’t exceed the height of .clearfix */
+    // width: 100%;
+    
+    width: 120px; /* Adjust size as needed */
+    height: auto; /* Maintain aspect ratio */
+    object-fit: cover; /* Make sure the image doesn't get distorted */
+    
   }
 }
 
