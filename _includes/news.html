@@ -12,7 +12,7 @@
               {% for item in news limit: news_limit %}
                 <tr>
                   <th scope="row" style="width: 20%">
-                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">{{ item.date | date: "%b %d, %Y" }}</span>
+                    <span class="badge" style="min-width: 75px">{{ item.date | date: "%b %d, %Y" }}</span>
 
                   </th>
                   <td>
