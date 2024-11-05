@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I passed the confirmation as a Ph.D. Candidate.
+I passed the confirmation as a Ph.D. candidate.
