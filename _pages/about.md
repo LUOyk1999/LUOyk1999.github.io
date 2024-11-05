@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate at Beihang University (BUAA)
 
 profile:
   align: right
-  # image: luoyuankai.jpg
+  image: luoyuankai.jpg
   image_circular: false # crops the image to make it circular
 
 news: true  # includes a list of news items
@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Email: luoyk@buaa.edu.cn and yuankluo@polyu.edu.hk
+Email: luoyk@buaa.edu.cn, yuankluo@polyu.edu.hk
 
 [Google Scholar](https://scholar.google.com/citations?user=33f_QqAAAAAJ&hl=en); [Github](https://github.com/LUOyk1999); [OpenReview](https://openreview.net/profile?id=~Yuankai_Luo2)
 
