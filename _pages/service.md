@@ -7,5 +7,5 @@
 - IEEE Transactions on Knowledge and Data Engineering (TKDE).
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 - Neural Networks (NN).
-- IEEE Transactions on Intelligent Transportation Systems (TITS)
+- IEEE Transactions on Intelligent Transportation Systems (TITS).
 
