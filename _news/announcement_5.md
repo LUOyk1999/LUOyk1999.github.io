@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was grateful to be awarded the 2023 Computer Star, Beihang University.
+I was grateful to be awarded the 2023 Computer Star (Star of Science and Technology), Beihang University.
