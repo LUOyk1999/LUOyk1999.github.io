@@ -12,10 +12,12 @@
             {% include figure.html
             path=entry_path
             class="preview z-depth-1 rounded medium-zoom-image"
+            width="100%"
             zoomable=false
             alt=entry.preview -%}
           {%- endif -%}
-        {%- elsif entry.abbr -%}
+        {%- endif -%}
+        {%- if entry.abbr -%}
           {%- if site.data.venues[entry.abbr] -%}
             {%- assign venue_style = nil -%}
             {%- if site.data.venues[entry.abbr].color != blank -%}
