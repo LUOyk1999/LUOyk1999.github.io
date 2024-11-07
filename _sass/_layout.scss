@@ -34,6 +34,7 @@ body.sticky-bottom-footer {
     width: 200px; /* Adjust size as needed */
     height: auto; /* Maintain aspect ratio */
     object-fit: cover; /* Make sure the image doesn't get distorted */
+    margin: 0 auto;
     
   }
 }
