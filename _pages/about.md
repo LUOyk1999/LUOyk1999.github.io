@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 Email: luoyk@buaa.edu.cn, yuankluo@polyu.edu.hk
 
-[Google Scholar](https://scholar.google.com/citations?user=33f_QqAAAAAJ&hl=en); [Github](https://github.com/LUOyk1999); [OpenReview](https://openreview.net/profile?id=~Yuankai_Luo2); [CV](https://luoyk1999.github.io/assets/pdf/CV_Yuankai.pdf)
+[[Google Scholar](https://scholar.google.com/citations?user=33f_QqAAAAAJ&hl=en)] [[Github](https://github.com/LUOyk1999)] [[OpenReview](https://openreview.net/profile?id=~Yuankai_Luo2)] [[CV](https://luoyk1999.github.io/assets/pdf/CV_Yuankai.pdf)]
 
 I am a Ph.D. candidate in School of Computer Science and Engineering, Beihang University, supervised by [Prof. Lei Shi](https://leishidata.com/) and a joint Ph.D. student at The Hong Kong Polytechnic University under the supervision of [Prof. Xiao-Ming Wu](https://www4.comp.polyu.edu.hk/~csxmwu/). Before that, I did research supervised by [Veronika Thost](https://mitibmwatsonailab.mit.edu/people/veronika-thost/). Previously, I received the BEng degree in Computer Science and Engineering from Chongqing University of Posts and Telecommunications, in 2021.
 
