@@ -6,8 +6,8 @@ subtitle: Ph.D. Candidate at Beihang University (BUAA)
 
 profile:
   align: right
-  image: luoyuankai.jpg
-  image_circular: false # crops the image to make it circular
+  image: luo3.png
+  image_circular: true # crops the image to make it circular
 
 news: true  # includes a list of news items
 # latest_posts: true  # includes a list of the newest posts
