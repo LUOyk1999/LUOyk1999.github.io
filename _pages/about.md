@@ -26,4 +26,23 @@ Email: luoyk@buaa.edu.cn, yuankluo@polyu.edu.hk
 
 I am a Ph.D. candidate in School of Computer Science and Engineering, Beihang University, supervised by [Prof. Lei Shi](https://leishidata.com/) and a joint Ph.D. student at The Hong Kong Polytechnic University under the supervision of [Prof. Xiao-Ming Wu](https://www4.comp.polyu.edu.hk/~csxmwu/). Before that, I did research supervised by [Veronika Thost](https://mitibmwatsonailab.mit.edu/people/veronika-thost/). Previously, I received the BEng degree in Computer Science and Engineering from Chongqing University of Posts and Telecommunications, in 2021.
 
-My research interests include Graph Learning, Graph Neural Networks, etc.
+My research interests include Graph Learning, Graph Neural Networks, etc. You may also check out a summary of my research:
+
+**Unified Framework GNN+ for Graph Representation Learning**
+
+Developed a **GNN+ framework** which integrates message passing, structural encoding, and regularization techniques. Demonstrated the GNN+ framework’s effectiveness on general node-level and graph-level tasks. [[NeurIPS 2024](https://openreview.net/forum?id=xkljKdGe4E), [ICLR 2025](https://openreview.net/forum?id=PwxYoMvmvy), [arXiv 2025](#)]
+
+**Graph Transformers for Specialized Small-Scale Graph Tasks**
+
+Designed **specialized Graph Transformers architecture** tailored for small-scale graph tasks, particularly **directed acyclic graphs** [[NeurIPS 2023]](https://openreview.net/forum?id=g49s1N5nmO), and graphs with **multi-level structures** [[NeurIPS 2024]](https://openreview.net/forum?id=U4KldRgoph).
+
+**GNN Compression**
+
+Introduced **vector quantization** to compress continuous node embeddings into **highly compact** (typically 6-15 dimensions), **discrete** (int4 type), and **interpretable** node representations—termed **Node IDs** [[ICLR 2025]](https://openreview.net/forum?id=t9lS1lX9FQ).
+
+**Applications**
+
+Applied the developed methodologies to real-world graph tasks, including:
+
+- **Self-supervised molecular graph learning** using persistent homology to improve **molecular property predictions**, especially in scenarios with limited labeled data: [[NeurIPS 2023]](https://openreview.net/forum?id=wEiUGpcr0M)
+- **Scholarly impact profiling** through the analysis of self-citation networks: [[KDD 2023]](https://dl.acm.org/doi/abs/10.1145/3580305.3599845)
