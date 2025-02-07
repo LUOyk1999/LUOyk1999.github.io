@@ -34,7 +34,4 @@ My research interests include Graph Learning, Graph Neural Networks, etc. You ma
 
 **GNN Compression**: introduced **vector quantization** to compress continuous node embeddings into **highly compact** (typically 6-15 dimensions), **discrete** (int4 type), and **interpretable** node representations—termed **Node IDs** [[ICLR 2025]](https://openreview.net/forum?id=t9lS1lX9FQ).
 
-**Applications**: applied the developed methodologies to real-world graph tasks, including:
-
-- **Self-supervised molecular graph learning** using persistent homology to improve **molecular property predictions**, especially in scenarios with limited labeled data: [[NeurIPS 2023]](https://openreview.net/forum?id=wEiUGpcr0M)
-- **Scholarly impact profiling** through the analysis of self-citation networks: [[KDD 2023]](https://dl.acm.org/doi/abs/10.1145/3580305.3599845)
+**Applications**: applied the developed methodologies to real-world graph tasks, including: **self-supervised molecular graph learning** using persistent homology to improve **molecular property predictions**, especially in scenarios with limited labeled data: [[NeurIPS 2023]](https://openreview.net/forum?id=wEiUGpcr0M) and **scholarly impact profiling** through the analysis of self-citation networks: [[KDD 2023]](https://dl.acm.org/doi/abs/10.1145/3580305.3599845)
