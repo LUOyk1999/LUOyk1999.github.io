@@ -1,6 +1,6 @@
 **Conference Reviewer:**
 
-- WSDM 2023/2024, ICML 2024, NeurIPS 2024 (**Top Reviewer Award**), EMNLP 2024, ICLR 2025, AAAI 2025
+- WSDM 2023/2024, ICML 2024/2025, NeurIPS 2024 (**Top Reviewer Award**), EMNLP 2024, ICLR 2025, AAAI 2025
 
 **Journal Reviewer:**
 
