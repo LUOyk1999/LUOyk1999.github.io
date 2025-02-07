@@ -28,7 +28,7 @@ I am a Ph.D. candidate in School of Computer Science and Engineering, Beihang Un
 
 My research interests span Graph Neural Network (GNN) research, including architecture design, theoretical analysis, and practical applications. You may also check out a summary of my work:
 
-**GNN Architecture and Theory**:
+**GNN Architecture and Analysis**:
 - **Unified Framework GNN+ for General Graph Tasks**: developed a **GNN+ framework** which integrates message passing, positional encoding, and regularization techniques. Demonstrated the GNN+ framework’s effectiveness on general node-level and graph-level tasks. [[NeurIPS 2024](https://openreview.net/forum?id=xkljKdGe4E), [ICLR 2025](https://openreview.net/forum?id=PwxYoMvmvy), [arXiv 2025](#)]
 - **Graph Transformers for Specialized Small-Scale Graph Tasks**: designed specialized Graph Transformers architecture tailored for small-scale graph tasks, particularly **directed acyclic graphs** [[NeurIPS 2023]](https://openreview.net/forum?id=g49s1N5nmO), and graphs with **multi-level structures** [[NeurIPS 2024]](https://openreview.net/forum?id=U4KldRgoph).
 
