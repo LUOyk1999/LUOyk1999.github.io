@@ -36,6 +36,6 @@ My research interests span Graph Neural Network (GNN) research, including archit
 
 **GNN Pre-training**: proposed a graph self-supervised learning framework **based on persistent homology** theory, which effectively captures the multi-scale topological features of graph data [[NeurIPS 2023]](https://openreview.net/forum?id=wEiUGpcr0M). 
 
-**GNN Efficency**: introduced vector quantization to compress continuous node embeddings into highly compact (typically 6-15 dimensions), discrete (int4 type), and interpretable node representations—termed **Node IDs** [[ICLR 2025]](https://openreview.net/forum?id=t9lS1lX9FQ).
+**GNN Compression**: introduced vector quantization to compress continuous node embeddings into highly compact (typically 6-15 dimensions), discrete (int4 type), and interpretable node representations—termed **Node IDs** [[ICLR 2025]](https://openreview.net/forum?id=t9lS1lX9FQ).
 
 <!-- **GNN Applications**: applied the developed methodologies to real-world graph tasks, including self-supervised molecular graph learning using persistent homology to improve **molecular property predictions**, especially in scenarios with limited labeled data [[NeurIPS 2023]](https://openreview.net/forum?id=wEiUGpcr0M) and **scholarly impact profiling** through the analysis of self-citation graphs [[KDD 2023]](https://dl.acm.org/doi/abs/10.1145/3580305.3599845). -->
