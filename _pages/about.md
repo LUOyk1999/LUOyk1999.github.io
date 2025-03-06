@@ -28,7 +28,7 @@ Email: luoyk@buaa.edu.cn, yuankluo@polyu.edu.hk
 
 I am a Ph.D. candidate in School of Computer Science and Engineering, Beihang University, supervised by [Prof. Lei Shi](https://leishidata.com/) and a joint Ph.D. student at The Hong Kong Polytechnic University under the supervision of [Prof. Xiao-Ming Wu](https://www4.comp.polyu.edu.hk/~csxmwu/). Before that, I did research supervised by [Veronika Thost](https://mitibmwatsonailab.mit.edu/people/veronika-thost/). Previously, I received the BEng degree in Computer Science and Engineering from Chongqing University of Posts and Telecommunications, in 2021.
 
-My research interests span Graph Neural Network (GNN) research, including architecture design, pre-training strategies, and compression/acceleration. You may also check out a summary:
+My research interests span Graph Neural Network (GNN) research, including architecture design, pre-training strategies, and compression/acceleration:
 
 **GNN Architecture and Analysis**:
 - **Unified Framework GNN+ for Reassessing Classic GNNs in General Graph Tasks**: developed **GNN+**, a framework that integrates message passing and well-known regularization techniques like dropout. GNN+ demonstrates that the true potential of classic GNNs has been previously underestimated in both node-level and graph-level tasks, challenging the belief that complex mechanisms are necessary for superior performance in graph models [[NeurIPS 2024](https://openreview.net/forum?id=xkljKdGe4E), [arXiv 2025](https://arxiv.org/abs/2502.09263)].
