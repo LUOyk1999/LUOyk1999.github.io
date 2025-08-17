@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate at Beihang University (BUAA)
+subtitle: Ph.D. at Beihang University (BUAA)
 
 profile:
   align: right
@@ -26,7 +26,7 @@ Email: luoyk@buaa.edu.cn, yuankluo@polyu.edu.hk
 <!-- [[OpenReview](https://openreview.net/profile?id=~Yuankai_Luo2)]  -->
 <!-- [[CV](https://luoyk1999.github.io/assets/pdf/CV_Yuankai.pdf)] -->
 
-I am a Ph.D. candidate in School of Computer Science and Engineering, Beihang University, supervised by [Prof. Lei Shi](https://leishidata.com/) and a joint Ph.D. student at The Hong Kong Polytechnic University under the supervision of [Prof. Xiao-Ming Wu](https://www4.comp.polyu.edu.hk/~csxmwu/). Before that, I did research supervised by [Veronika Thost](https://mitibmwatsonailab.mit.edu/people/veronika-thost/). Previously, I received the BEng degree in Computer Science and Engineering from Chongqing University of Posts and Telecommunications, in 2021.
+I completed my Ph.D. in the School of Computer Science and Engineering at Beihang University, supervised by [Prof. Lei Shi](https://leishidata.com/) and was jointly trained at The Hong Kong Polytechnic University under the supervision of [Prof. Xiao-Ming Wu](https://www4.comp.polyu.edu.hk/~csxmwu/). Before that, I did research supervised by [Veronika Thost](https://mitibmwatsonailab.mit.edu/people/veronika-thost/). Previously, I received the BEng degree in Computer Science and Engineering from Chongqing University of Posts and Telecommunications, in 2021.
 
 My research interests span Graph Neural Network (GNN) research, including architecture design, pre-training strategies, and compression/acceleration:
 
