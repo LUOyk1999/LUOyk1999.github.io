@@ -20,8 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Email: yuankailuo@nju.edu.cn
-
+[Email: yuankailuo@nju.edu.cn]
 [[Google Scholar](https://scholar.google.com/citations?user=33f_QqAAAAAJ&hl=en)] [[Github](https://github.com/LUOyk1999)] 
 <!-- [[OpenReview](https://openreview.net/profile?id=~Yuankai_Luo2)]  -->
 <!-- [[CV](https://luoyk1999.github.io/assets/pdf/CV_Yuankai.pdf)] -->
