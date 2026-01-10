@@ -26,7 +26,7 @@ Email: yuankailuo@nju.edu.cn
 <!-- [[OpenReview](https://openreview.net/profile?id=~Yuankai_Luo2)]  -->
 <!-- [[CV](https://luoyk1999.github.io/assets/pdf/CV_Yuankai.pdf)] -->
 
-Now I am an Assistant Professor at the School of Artificial Intelligence, Nanjing University (NJU). I received my Ph.D. degree from the School of Computer Science and Engineering at Beihang University, where I was supervised by [Prof. Lei Shi](https://leishidata.com/) and jointly trained at The Hong Kong Polytechnic University under the supervision of [Prof. Xiao-Ming Wu](https://www4.comp.polyu.edu.hk/~csxmwu/). Before that, I did research supervised by [Veronika Thost](https://mitibmwatsonailab.mit.edu/people/veronika-thost/).
+Now I am an Assistant Professor at the [School of Artificial Intelligence, Nanjing University (NJU)](https://ai.nju.edu.cn/). I received my Ph.D. degree from the School of Computer Science and Engineering at Beihang University, where I was supervised by [Prof. Lei Shi](https://leishidata.com/) and jointly trained at The Hong Kong Polytechnic University under the supervision of [Prof. Xiao-Ming Wu](https://www4.comp.polyu.edu.hk/~csxmwu/). Before that, I did research supervised by [Veronika Thost](https://mitibmwatsonailab.mit.edu/people/veronika-thost/).
 
 My research interests span Graph Neural Network (GNN) research, including architecture design, pre-training strategies, and compression/acceleration:
 
