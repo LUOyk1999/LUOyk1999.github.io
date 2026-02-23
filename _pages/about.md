@@ -29,14 +29,14 @@ I am currently an Assistant Professor at the [School of Artificial Intelligence]
 
 Driven by the philosophy of "Simplicity" my research focuses on improving the efficiency and scalability of AI systems. My work has evolved from optimizing structural representation frameworks to developing efficient generative frameworks for Embodied AI and Scientific Discovery.
 
-**ModernGNN: Efficient Structural Representation**:
+**1. ModernGNN: Efficient Structural Representation**
 - **Systematic Architecture Refinement**: developed **ModernGNN (GNN+)**, a framework that integrates message passing and well-known regularization techniques like dropout. GNN+ demonstrates that the true potential of classic GNNs has been previously underestimated in both node-level and graph-level tasks, challenging the belief that complex mechanisms are necessary for superior performance in graph models [[NeurIPS 2024](https://openreview.net/forum?id=xkljKdGe4E), [ICML 2025](https://arxiv.org/abs/2502.09263), [ICLR 2025](https://openreview.net/forum?id=PwxYoMvmvy)].
 
 - **Neural Compression**: introduced vector quantization to compress continuous node embeddings into highly compact (typically 6-15 dimensions), discrete (int4 type), and interpretable node representations—termed **Node IDs** [[ICLR 2025]](https://openreview.net/forum?id=t9lS1lX9FQ).
 
 - **Specialized Architectures & Applications**: designed Graph Transformers for complex topologies, including DAGs [[NeurIPS 2023]](https://openreview.net/forum?id=g49s1N5nmO) and multi-level structures [[NeurIPS 2024]](https://openreview.net/forum?id=U4KldRgoph). Applied these methods to practical tasks, such as molecular property prediction using persistent homology [[NeurIPS 2023]](https://openreview.net/forum?id=wEiUGpcr0M) and scholarly impact profiling [[KDD 2023]](https://dl.acm.org/doi/abs/10.1145/3580305.3599845).
 
-**Sim-Series: Efficient Generative Frameworks**
+**2. Sim-Series: Efficient Generative Frameworks**
 
 - **Robotic Action Generation ([SimVLA](https://arxiv.org/abs/2602.18224))**: established a efficient Vision-Language-Action baseline for robotic manipulation by decoupling perception from control. It demonstrates that a streamlined architecture—centered on a standardized training recipe, standard flow matching, and a standard self-attention head—can perform robustly across diverse manipulation tasks.
 
