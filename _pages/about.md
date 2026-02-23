@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor at Nanjing University [[Google Scholar](https://scholar.google.com/citations?user=33f_QqAAAAAJ&hl=en)] [[Github](https://github.com/LUOyk1999)] 
+subtitle: Assistant Professor at Nanjing University
 
 profile:
   align: right
@@ -19,8 +19,7 @@ social: true  # includes social icons at the bottom of the page
 #       <p>Your City, State 12345</p>
 
 ---
-Email: yuankailuo@nju.edu.cn
-
+[[Google Scholar](https://scholar.google.com/citations?user=33f_QqAAAAAJ&hl=en)] [[Github](https://github.com/LUOyk1999)] [Email: yuankailuo@nju.edu.cn] 
 <!-- [[OpenReview](https://openreview.net/profile?id=~Yuankai_Luo2)]  -->
 <!-- [[CV](https://luoyk1999.github.io/assets/pdf/CV_Yuankai.pdf)] -->
 
