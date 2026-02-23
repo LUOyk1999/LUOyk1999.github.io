@@ -32,14 +32,12 @@ Driven by the philosophy of "Simplicity through First Principles," my research f
 **ModernGNN: Efficient Structural Representation**:
 - **Systematic Architecture Refinement**: developed **ModernGNN (GNN+)**, a framework that integrates message passing and well-known regularization techniques like dropout. GNN+ demonstrates that the true potential of classic GNNs has been previously underestimated in both node-level and graph-level tasks, challenging the belief that complex mechanisms are necessary for superior performance in graph models [[NeurIPS 2024](https://openreview.net/forum?id=xkljKdGe4E), [ICML 2025](https://arxiv.org/abs/2502.09263), [ICLR 2025](https://openreview.net/forum?id=PwxYoMvmvy)].
 
-- **Neural Compression (Node IDs)**: introduced vector quantization to compress continuous node embeddings into highly compact (typically 6-15 dimensions), discrete (int4 type), and interpretable node representations—termed **Node IDs** [[ICLR 2025]](https://openreview.net/forum?id=t9lS1lX9FQ).
+- **Neural Compression**: introduced vector quantization to compress continuous node embeddings into highly compact (typically 6-15 dimensions), discrete (int4 type), and interpretable node representations—termed **Node IDs** [[ICLR 2025]](https://openreview.net/forum?id=t9lS1lX9FQ).
 
 - **Specialized Architectures & Applications**: designed Graph Transformers for complex topologies, including DAGs [[NeurIPS 2023]](https://openreview.net/forum?id=g49s1N5nmO) and multi-level structures [[NeurIPS 2024]](https://openreview.net/forum?id=U4KldRgoph). Applied these methods to practical tasks, such as molecular property prediction using persistent homology [[NeurIPS 2023]](https://openreview.net/forum?id=wEiUGpcr0M) and scholarly impact profiling [[KDD 2023]](https://dl.acm.org/doi/abs/10.1145/3580305.3599845).
 
 **Sim-Series: Efficient Generative Frameworks**
 
-Research currently explores Flow Matching to establish streamlined generative baselines for both continuous and discrete domains.
+- **Robotic Action Generation ([SimVLA](https://arxiv.org/abs/2602.18224))**: established a efficient Vision-Language-Action baseline for robotic manipulation by decoupling perception from control. It demonstrates that a streamlined architecture—centered on a standardized training recipe, standard flow matching, and a standard self-attention head—can perform robustly across diverse manipulation tasks.
 
-- **Robotic Action Generation ([SimVLA](https://arxiv.org/abs/2602.18224))**: establishes a efficient Vision-Language-Action (VLA) baseline for robotic manipulation by decoupling perception from control. It demonstrates that a streamlined architecture—centered on a standardized training recipe, standard flow matching, and a standard self-attention head—can perform robustly across diverse manipulation tasks.
-
-- **Graph Generation ([SimGFM](https://openreview.net/forum?id=eCftYujQkK))**: proposes a simplified Discrete Flow Matching (DFM) framework for graph generation. By utilizing an endpoint-focused scheduler and eliminating task-specific heuristics, the approach reduces the required sampling steps for structural generation from hundreds to fewer than ten.
+- **Graph Generation ([SimGFM](https://openreview.net/forum?id=eCftYujQkK))**: proposed a simplified Discrete Flow Matching framework for graph generation. By utilizing an endpoint-focused scheduler and eliminating task-specific heuristics, the approach reduces the required sampling steps for structural generation from hundreds to fewer than ten.
