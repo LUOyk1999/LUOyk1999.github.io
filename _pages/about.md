@@ -31,9 +31,9 @@ My research asks a central question: **how can we make models for complex struct
 
 - **VLA / VLN**: our primary focus is building lightweight and scalable embodied agents for robotic manipulation and navigation. [**SimVLA**](https://arxiv.org/abs/2602.18224) provides a streamlined VLA baseline by decoupling perception from control and using a standard training recipe, flow matching, and self-attention. [**CORAL**](https://arxiv.org/abs/2603.09298) extends this foundation to scalable multi-task deployment through lightweight, parameter-isolated LoRA experts and dynamic instruction-based routing, with minimal storage cost and zero additional inference overhead [[IROS 2026](https://arxiv.org/abs/2603.09298)].
 
-- **Generation-Aware On-Device Detection and Segmentation**: develop unified models that combine visual generation with perception to better handle rare and challenging corner cases. In particular, we explore jointly performing image inpainting and detection or segmentation prediction, allowing models to recover missing visual evidence while recognizing targets efficiently on drones and robotic platforms.
+- **Generation-Aware On-Device Detection and Segmentation**: develop unified models that combine visual generation with perception to better handle rare and challenging corner cases. 
 
-- **Multimodal Reasoning and Real-Time Video Understanding**: study efficient multimodal reasoning over continuous video streams from surveillance cameras, drones, and embodied agents. Our goal is to enable real-time understanding of evolving scenes, events, and agent interactions from both third-person and egocentric perspectives.
+- **Multimodal Reasoning and Real-Time Video Understanding**: study efficient multimodal reasoning over continuous video streams from surveillance cameras, drones, and embodied agents. Our goal is to enable real-time understanding of evolving scenes, events, and agent interactions.
 
 
 **2. Efficient Structural Representation and Architecture Optimization**
