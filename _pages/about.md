@@ -29,7 +29,7 @@ My research asks a central question: **how can we make models for complex struct
 
 **1. Embodied Intelligence: Lightweight On-Device Deployment**
 
-- **VLA / VLN**: our primary focus is building lightweight and scalable embodied agents for robotic manipulation and navigation. [**SimVLA**](https://arxiv.org/abs/2602.18224) provides a streamlined VLA baseline by decoupling perception from control and using a standard training recipe, flow matching, and self-attention. [**CORAL**](https://arxiv.org/abs/2603.09298) extends this foundation to scalable multi-task deployment through lightweight, parameter-isolated LoRA experts and dynamic instruction-based routing, with minimal storage cost and zero additional inference overhead [[IROS 2026](https://arxiv.org/abs/2603.09298)].
+- **VLA / VLN**: our primary focus is building lightweight and scalable embodied agents for robotic manipulation and navigation. **SimVLA** provides a streamlined VLA baseline by decoupling perception from control and using a standard training recipe [[arxiv 2026](https://arxiv.org/abs/2602.18224)]. **CORAL** extends this foundation to scalable multi-task deployment through lightweight, parameter-isolated LoRA experts and dynamic instruction-based routing, with minimal storage cost and zero additional inference overhead [[IROS 2026](https://arxiv.org/abs/2603.09298)].
 
 - **Generation-Aware On-Device Detection and Segmentation**: develop unified models that combine visual generation with perception to better handle rare and challenging corner cases. 
 
